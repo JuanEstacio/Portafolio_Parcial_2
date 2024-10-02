@@ -1,0 +1,20 @@
+.container_2 {
+    text-align: right; /* Alinea todo el contenido a la derecha */
+    margin-right: 20px; /* Añade un pequeño margen a la derecha */
+  }
+  
+  .conta {
+    text-align: justify; /* Justifica el texto */
+    margin-right: 20px;
+  }
+  
+  ul {
+    text-align: right; /* Alinea las viñetas a la derecha */
+    margin-right: 20px;
+  }
+  
+  li {
+    text-align: justify; /* Justifica el texto de las viñetas */
+    list-style-position: inside; /* Asegura que las viñetas sigan la alineación */
+  }
+  

@@ -1,0 +1,17 @@
+footer {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.footer-icons img {
+  width: 20px; /* Reducimos el tamaño del icono de Facebook */
+  height: auto;
+  margin: 0 10px;
+}

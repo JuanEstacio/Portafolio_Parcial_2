@@ -1,0 +1,9 @@
+.container-Tareas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 80px;
+    gap: 20px;
+    size: 200px;
+  }
