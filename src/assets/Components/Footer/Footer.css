@@ -15,3 +15,8 @@ footer {
   height: auto;
   margin: 0 10px;
 }
+
+.facebook-icon {
+  width: 80px; /* Ajusta el tamaño del icono */
+  height: 80px;
+}

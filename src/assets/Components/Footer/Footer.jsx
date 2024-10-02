@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-content">
           <p>© 2024 Juan Esteban Estacio Alomia - Todos los derechos reservados</p>
           <a href="https://www.facebook.com/share/JVb9J89jfEkdmMRF/?mibextid=qi2Omg" target="_blank">
-            <img src={facebookIcon} alt="Facebook" className="social-icon-footer" />
+          <img src={facebookIcon} alt="Facebook" className="facebook-icon" />
           </a>
         </div>
       </footer>
